@@ -7,3 +7,4 @@ testing pull operation
 SSH------TEST
 NEW git push test
 ===>>>new git push for ssh
+===>>>new http push for http
